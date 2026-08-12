@@ -1,0 +1,6 @@
+Text-to-Image-Diffusion/
+├── text_to_image.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── examples/
